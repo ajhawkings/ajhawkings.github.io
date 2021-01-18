@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>404 - It's not here!</title>
+    <link rel="icon" href="https://icon-library.com/images/icon-error/icon-error-11.jpg">
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body class="bod" bgcolor="black">
+    <script src="script.js"></script>
+    <img src="https://cdn.kicksdigital.com/kicksdigitalmarketing.com/2019/09/iStock-1142986365.jpg" width="100%"/img>
+    <p>This is the URL shortener for signal groups error. Maybe you meant to go to the:</p>
+    <a href=https://signal.hawkings.me>Feedback document</a>
+  </body>
+</html>
